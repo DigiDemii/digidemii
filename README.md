@@ -1,5 +1,6 @@
 <table>
-<caption>Demi Taylor</caption>
+<!-- <caption>Demi Taylor</caption> -->
+ <p>I am an apprentice software developer working for CodeNation.</p>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
